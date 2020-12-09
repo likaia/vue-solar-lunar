@@ -1,4 +1,5 @@
-# vue-solar-lunar 支持Vue | Vue3的公历转农历插件
+# vue-solar-lunar · ![](https://img.shields.io/badge/yarn-v1.0.0-%23EA7639) ![](https://img.shields.io/badge/npm-v1.0.0-%230D76B6) ![](https://img.shields.io/github/issues/likaia/vue-solar-lunar) ![](https://img.shields.io/github/forks/likaia/vue-solar-lunar) ![](https://img.shields.io/github/stars/likaia/vue-solar-lunar) 
+支持Vue | Vue3的公历转农历插件
 
 ## 前言
 本项目为一个公历转农历换的库，转换结果包含星期、是否闰月、节气，采用TypeScript编写，完美支持Vue3同时向下兼容，欢迎各位开发者使用。
