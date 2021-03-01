@@ -1,11 +1,11 @@
-# vue-solar-lunar · [![yarn version](https://img.shields.io/badge/yarn-v1.0.2-E47C48)](https://github.com/likaia/vue-solar-lunar) [![npm version](https://img.shields.io/badge/npm-v1.0.2-2277B1)](https://www.npmjs.com/package/vue-solar-lunar) [![issues](https://img.shields.io/github/issues/likaia/vue-solar-lunar)](https://github.com/likaia/vue-solar-lunar/issues) [![forks](https://img.shields.io/github/forks/likaia/vue-solar-lunar)](https://github.com/likaia/vue-solar-lunar) [![star](https://img.shields.io/github/stars/likaia/vue-solar-lunar) ](https://github.com/likaia/vue-solar-lunar)
+# vue-solar-lunar · [![yarn version](https://img.shields.io/badge/yarn-v1.0.3-E47C48)](https://github.com/likaia/vue-solar-lunar) [![npm version](https://img.shields.io/badge/npm-v1.0.3-2277B1)](https://www.npmjs.com/package/vue-solar-lunar) [![issues](https://img.shields.io/github/issues/likaia/vue-solar-lunar)](https://github.com/likaia/vue-solar-lunar/issues) [![forks](https://img.shields.io/github/forks/likaia/vue-solar-lunar)](https://github.com/likaia/vue-solar-lunar) [![star](https://img.shields.io/github/stars/likaia/vue-solar-lunar) ](https://github.com/likaia/vue-solar-lunar)
 支持Vue | Vue3的公历转农历插件
 
 ## 前言
 本项目为一个公历转农历换的库，基于项目 [calendar](https://github.com/laocaixw/calendar) 修改,转换结果包含星期、是否闰月、节气，采用TypeScript编写，完美支持Vue3同时向下兼容，欢迎各位开发者使用。
 ## 插件安装
 ```bash
-yarn vue-solar-lunar
+yarn add vue-solar-lunar
 
 # or
 

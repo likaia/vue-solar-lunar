@@ -325,7 +325,7 @@ function _checkMonth(month: number) {
  * @param day int 日期
  */
 function _checkDay(day: number) {
-  if (day < 1) {
+  if (day < 0) {
     throw new RangeError("日期不能小于1");
   } else if (day > 31) {
     throw new RangeError("日期不能大于31");
